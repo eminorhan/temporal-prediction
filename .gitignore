@@ -1,0 +1,17 @@
+# File extensions
+*.npy
+*.pt
+*.npz
+*.png
+*.mp4
+*.tar
+*.out
+*.ckpt
+
+# Directories
+/__pycache__
+/caches_saycam
+/caches_intphys
+/caches_adept
+/scripts/trained_models
+/scripts/adept_scores
